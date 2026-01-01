@@ -6,6 +6,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/af6c18e8-e9ae-417a-a0a7-514c59396ffb
+
+
 ## 🎯 Business Objective
 
 The purpose of this project is to analyze a bank’s loan portfolio to:
