@@ -72,6 +72,10 @@ The purpose of this project is to analyze a bank’s loan portfolio to:
 | Customer Segments | Repeat vs new borrowers |
 
 ---
+## 📈 Dashboard View From POWERBI Visualization
+![Bank Loan Dashboard Report](./VIDEOS/bankloan.PNG)
+
+---
 
 ## 🔍 Key Insights
 
